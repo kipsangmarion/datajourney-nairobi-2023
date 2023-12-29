@@ -71,9 +71,7 @@ The best performer is the CatBost Regressor.
 
 ### Competition perforamce:
 
-This project was done by a team of 2: [Shirley Ddaiddo](https://github.com/shirleymbeyu) and [Marion Kipsang](https://github.com/kipsangmarion) and the performace as follows:
-
-![image info](statistical-samurais-Data Journey Nairobi.png)
+This project was done by a team of 2: [Shirley Ddaiddo](https://github.com/shirleymbeyu) and [Marion Kipsang](https://github.com/kipsangmarion) 
 
 ## Conclusion
 
